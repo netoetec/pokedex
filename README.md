@@ -1,2 +1,2 @@
 # pokedex
-Pokedex criada com .NET MVC
+Pokedex criada com .NET MVC C#
