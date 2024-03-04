@@ -9,4 +9,5 @@ Executar o projeto
 dotnet watch run
 
 Restaurar o projeto
+dotnet clean
 dotnet restore
